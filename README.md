@@ -16,7 +16,7 @@ Require facebook cookies, get your cookies with cookiedough (chrome extensions)
 </p>
 
 <p align="center">
-  <b><i>Note:</i></b> The developer provides no warranty with this software and will not be responsible for any direct or indirect damage caused by the usage of this tool. Dogerat is built for educational and internal use only.
+  <b><i>Note:</i></b> The developer provides no warranty with this software and will not be responsible for any direct or indirect damage caused by the usage of this tool. Facehack is built for educational and internal use only.
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@ Require facebook cookies, get your cookies with cookiedough (chrome extensions)
 </p>
 
 <p align="center">
-  <b><i>Important:</i></b> To prevent any fraudulent activity, please ensure that the Instagram username is <a href="https://instagram.com/iqbalmh18"><code>@iqbalmh18</code></a> and the Facebook handle is <a href="https://m.facebook.com/MauApaNJING"><code>@KangProf</code></a>. Beware of scams and phishing attempts that use similar usernames or handles.
+  <b><i>Important:</i></b> To prevent any fraudulent activity, please ensure that the Instagram username is <a href="https://instagram.com/iqbalmh18"><code>@iqbalmh18</code></a> and the Facebook handle is <a href="https://www.facebook.com/MauApaNJING"><code>@KangProf</code></a>. Beware of scams and phishing attempts that use similar usernames or handles.
 </p>
 
 <p align="center">
